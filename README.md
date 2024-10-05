@@ -105,3 +105,9 @@ Contribuições são bem-vindas! Se você encontrar algum bug ou tiver sugestõe
 ## Licença
 
 Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+# Sobre
+
+- [v0.0.1](https://wordpress.com/post/codeflowchronicles.wordpress.com/32)
