@@ -1,6 +1,8 @@
 # OllamaChat
 
-OllamaChat é um assistente de IA interativo construído com React. Ele utiliza o modelo LLaMA para responder a perguntas e realizar tarefas automatizadas. Este projeto oferece uma interface de chat simples, onde o usuário pode conversar com o bot Ollama e obter respostas rápidas e inteligentes.
+![Avatar da LLaMA](https://i.postimg.cc/TwBLK55T/chat2.png)
+
+**OllamaChat** é um assistente de IA interativo construído com React. Ele utiliza o modelo LLaMA para responder a perguntas e realizar tarefas automatizadas. Este projeto oferece uma interface de chat simples, onde o usuário pode conversar com o bot Ollama e obter respostas rápidas e inteligentes.
 
 ## Funcionalidades
 
@@ -103,21 +105,3 @@ Contribuições são bem-vindas! Se você encontrar algum bug ou tiver sugestõe
 ## Licença
 
 Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-```
-
-### Explicação do `README`:
-
-- **Título e Descrição**: Introduz o projeto, explicando brevemente sua funcionalidade.
-- **Funcionalidades**: Lista os principais recursos do chat.
-- **Tecnologias Utilizadas**: Informa as tecnologias usadas no projeto.
-- **Instalação**: Detalha o processo de instalação e inicialização do projeto.
-- **Como Usar**: Explica como o usuário pode interagir com o chat.
-- **Estrutura do Projeto**: Fornece uma visão geral da organização dos arquivos do projeto.
-- **API do Ollama**: Explica como o serviço de comunicação com a API Ollama funciona.
-- **Contribuindo**: Instruções para colaboradores interessados.
-- **Licença**: Informa sobre a licença do projeto.
-- **Autor**: Créditos ao autor.
-
-Esse `README` deve cobrir todos os pontos principais para quem for usar ou contribuir com o projeto no GitHub.
