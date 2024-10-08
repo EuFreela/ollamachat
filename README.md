@@ -110,4 +110,4 @@ Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE
 
 # Sobre
 
-- [v0.0.1](https://wordpress.com/post/codeflowchronicles.wordpress.com/32)
+- [v0.0.1](https://codeflowchronicles.wordpress.com/2024/10/02/criando-um-assistente-ia-com-react/)
